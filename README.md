@@ -16,7 +16,7 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 
 ## 📸 Screenshot
 
-![Homepage](static/screenshot-home.png)
+![Homepage](static/screenshot_home.png)
 
 ---
 
