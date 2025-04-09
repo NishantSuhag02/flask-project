@@ -30,14 +30,6 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/flask-blogging-website.git
-cd flask-blogging-website
-
 ## 📂 Project Structure
 
 ├── app.py                  # Main Flask app
@@ -50,5 +42,11 @@ cd flask-blogging-website
 ├── static/
 │   ├── screenshot-home.png # Screenshot for README
 │   └── image.jpg           # Optional header image
+
+## 🔗 API Usage
+
+GET /api/blogs
+
+
 
 
