@@ -32,6 +32,7 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 
 ## 📂 Project Structure
 
+.
 ├── app.py                  # Main Flask app
 ├── blogs.db                # SQLite database
 ├── templates/
@@ -42,6 +43,8 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 ├── static/
 │   ├── screenshot-home.png # Screenshot for README
 │   └── image.jpg           # Optional header image
+
+---
 
 ## 🔗 API Usage
 
