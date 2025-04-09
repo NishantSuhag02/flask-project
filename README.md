@@ -33,7 +33,25 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 ## 📂 Project Structure
 
 ```
-. ├── app.py # Main Flask app ├── blogs.db # SQLite database ├── database.py # Handles DB connection and utility functions ├── schema.sql # SQL script to initialize the database ├── templates/ │ ├── home.html # Homepage template │ ├── about-us.html # About Us page │ ├── nav.html # Navbar partial │ ├── blogitems.html # Blog list partial │ ├── blog_detail.html # Individual blog view │ └── add_blog.html # Blog creation form ├── static/ │ ├── screenshot-home.png # Screenshot for README │ └── image.jpg # Optional header image
+## 📂 Project Structure
+
+```arduino
+.
+├── app.py                  // Main Flask app
+├── blogs.db                // SQLite database
+├── database.py             // Handles DB connection and utility functions
+├── schema.sql              // SQL script to initialize the database
+├── templates/
+│   ├── home.html           // Homepage template
+│   ├── about-us.html       // About Us page
+│   ├── nav.html            // Navbar partial
+│   ├── blogitems.html      // Blog list partial
+│   ├── blog_detail.html    // Individual blog view
+│   └── add_blog.html       // Blog creation form
+├── static/
+│   ├── screenshot-home.png // Screenshot for README
+│   └── image.jpg           // Optional header image
+
 ```
 
 ---
