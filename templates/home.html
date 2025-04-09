@@ -15,6 +15,7 @@
     <title>Flask Project</title>
   </head>
   <body>
+    {% include 'nav.html' %}
     <div class='container'>
       <h1 class='text-center mt-4 mb-4'>The Insight's Hub</h1>
       <img id='image' class='img-fluid' src='static/took-a-snap-Lx-PCGmS41E-unsplash.jpg'>
@@ -31,7 +32,7 @@
         {% endfor %}
       </div>
       <div class='text-center'>
-        <button class="btn btn-primary btn-lg mb-2" href='https://2c9c30be-a539-4ed6-a22b-f6986746b3e7-00-2foki5oqlwhk0.sisko.replit.dev/about-us'>About Us</button>
+        <a class="btn btn-primary btn-lg mb-2" href='https://2c9c30be-a539-4ed6-a22b-f6986746b3e7-00-2foki5oqlwhk0.sisko.replit.dev/about-us'>About Us</a>
         <p>Copyright 2024, Insight's Hub</p>
       </div>
     </div>
