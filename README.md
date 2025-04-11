@@ -35,7 +35,7 @@ A simple yet powerful blogging website built using **Flask** and **SQLite**, ide
 ```
 ## 📂 Project Structure
 
-```arduino
+```
 .
 ├── app.py                  // Main Flask app
 ├── blogs.db                // SQLite database
